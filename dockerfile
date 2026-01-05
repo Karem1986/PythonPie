@@ -15,5 +15,3 @@ RUN python3
 
 # Map it to a port
 EXPOSE 6070:80
-
-
