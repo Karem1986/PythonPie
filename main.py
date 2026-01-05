@@ -11,7 +11,4 @@ if ask_which_pie == 'apple':
 elif ask_which_pie == 'leek potatoes':
  leek_potato_pie = ['flour', 'soya drink', 'leek', 'potatoes']
  print('Your pie will have as ingredients:')
- print(leek_potato_pie)
-
-
-#  print("Building with Docker is awesome!")
+ print("The ingredients of your Leek potato pie will be: ", leek_potato_pie)
